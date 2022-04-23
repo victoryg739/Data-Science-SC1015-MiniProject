@@ -23,6 +23,7 @@
 ---
 
 **Conclusion**
+
 We took a closer look at how r/WallStreetBets interacts with the stock market. We examined activity on the subreddit and conducted an analysis as to whether or not there was any significant correlation between sentiment score of stocks and and there price movement. We found that the classification model does provide some predictive power in our dataset. 
 
 To further test our model, it is recommended that we forward test our classification model on real-time market data and test our model on more recent r/wallstreetbets data.
@@ -34,6 +35,8 @@ To further test our model, it is recommended that we forward test our classifica
 - Classifcation modal using gradient boosted tree
 - Pearson Correlation (r-value and p-value)
 - Data Cleaning for Sentiment Analysis (lemmatization, stopwords and etc)
+
+---
 
 **References**
 - https://medium.com/analytics-vidhya/finding-correlations-between-reddit-and-the-stock-market-using-statistics-4926a25a386e
