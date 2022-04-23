@@ -1,8 +1,10 @@
 # SC1015-MiniProject
 **Contributors**
 - @victoryg739 - Classification Model, EDA, Data Preparation and Data Cleaning, Data Extraction and Slides
+
 -@Nivlek06 - Practical Motivation, EDA, Slides and Conclusion
-@Roseus9 - Practical Motivation, EDA, Slides and Conclusion
+
+-@Roseus9 - Practical Motivation, EDA, Slides and Conclusion
 
 **Problem Defintion**
 - Can we predict stock prices with online comments/trends on social media? 
@@ -22,7 +24,7 @@
 - https://www.kaggle.com/code/radema/yolo-explorative-analysis-on-wallstreetbets
 
 - https://www.reddit.com/r/wallstreetbets/
--
+
 - https://medium.com/geekculture/debunking-r-wallstreetbets-with-machine-learning-257a867ecc76
 
 
