@@ -39,6 +39,10 @@ To further test our model, it is recommended that we forward test our classifica
 ---
 
 **References**
+- https://doi.org/10.34740/KAGGLE/DSV/2530155
+
+-https://www.nasdaq.com/market-activity/stocks/screener
+
 - https://medium.com/analytics-vidhya/finding-correlations-between-reddit-and-the-stock-market-using-statistics-4926a25a386e
 
 - https://discuss.analyticsvidhya.com/t/methods-to-deal-with-zero-values-while-performing-log-transformation-of-variable/2431/6
