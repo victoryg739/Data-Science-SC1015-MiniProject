@@ -12,7 +12,7 @@
 - Can we predict stock prices with online comments/trends on social media? 
 
 **Solution Approach**
-- By using classification model to check whether r/wallstreetbets post there can dedicate stock prices.
+- By using classification model to check whether r/wallstreetbets post there can dictate stock prices.
 
 ---
 
